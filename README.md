@@ -1,16 +1,15 @@
 ### UNED - Recursos de Apoyo Virtual
 
-**Repositorio oficial de apoyo para estudiantes de la carrera de Informática – UNED Costa Rica**. Bienvenido@ a este repositorio, creado con el propósito de centralizar **ejemplos de código**, **material de estudio** y otros **recursos útiles** para complementar las sesiones virtuales de apoyo académico.
+Repositorio oficial de apoyo para estudiantes de Informática – UNED Costa Rica.
+Este repositorio está diseñado para centralizar ejemplos prácticos de código, material de estudio estructurado y recursos complementarios que apoyen el aprendizaje en asignaturas de programación, redes, seguridad y administración de sistemas.
+Objetivo del repositorio
 
------
+Brindar a los estudiantes una colección organizada y práctica de recursos que les permita:
 
-### Objetivo
-
-Brindar a los estudiantes de la carrera de Informática una fuente confiable de materiales que les ayuden a:
-
-* Reforzar los contenidos de los cursos.
-* Practicar conceptos mediante ejemplos de código.
-* Acceder fácilmente a recursos organizados por curso o temática.
+* Comprender y aplicar conceptos técnicos mediante ejemplos reales.
+* Practicar habilidades de línea de comandos, desarrollo y administración.
+* Preparar material para exámenes, proyectos y laboratorios.
+* Contar con una referencia rápida para comandos y flujos de trabajo comunes.
 
 -----
 
