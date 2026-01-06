@@ -2,7 +2,8 @@
 
 Repositorio oficial de apoyo para estudiantes de Informática – UNED Costa Rica.
 Este repositorio está diseñado para centralizar ejemplos prácticos de código, material de estudio estructurado y recursos complementarios que apoyen el aprendizaje en asignaturas de programación, redes, seguridad y administración de sistemas.
-Objetivo del repositorio
+
+### Objetivo del repositorio
 
 Brindar a los estudiantes una colección organizada y práctica de recursos que les permita:
 
