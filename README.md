@@ -1,10 +1,5 @@
 ### UNED - Recursos de Apoyo Virtual
 
-Repositorio oficial de apoyo para estudiantes de Informática – UNED Costa Rica.
-Este repositorio está diseñado para centralizar ejemplos prácticos de código, material de estudio estructurado y recursos complementarios que apoyen el aprendizaje en asignaturas de programación, redes, seguridad y administración de sistemas.
-
-### Objetivo del repositorio
-
 Brindar a los estudiantes una colección organizada y práctica de recursos que les permita:
 
 * Comprender y aplicar conceptos técnicos mediante ejemplos reales.
@@ -236,4 +231,6 @@ sqlcmd -S localhost -i uned/progra_avanzada/proyectos/proyecto_restaurante/datab
 
 ------
 
-**Made with love by VIsh0k**
+### Author & License
+
+This project is not licensed, was develop by [VIsh0k](https://github.com/Yoswell)
