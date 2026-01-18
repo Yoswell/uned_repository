@@ -1,4 +1,4 @@
-### UNED - Recursos de Apoyo Virtual
+# UNED - Recursos de Apoyo Virtual
 
 Brindar a los estudiantes una colección organizada y práctica de recursos que les permita:
 
@@ -7,9 +7,7 @@ Brindar a los estudiantes una colección organizada y práctica de recursos que 
 * Preparar material para exámenes, proyectos y laboratorios.
 * Contar con una referencia rápida para comandos y flujos de trabajo comunes.
 
------
-
-### Comandos de compilación
+## Comandos de compilación
 
 ```bash
 dotnet clean
@@ -51,7 +49,7 @@ dotnet sln MiSolucion.sln remove ./Proyecto/Proyecto.csproj
 
 -----
 
-### Crear proyectos
+## Crear proyectos
 
 ```bash
 dotnet new console -n MiAppConsola
@@ -90,7 +88,7 @@ dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 
 -----
 
-### Ejecutar o compilar proyectos específicos sin (cd)
+## Ejecutar o compilar proyectos específicos sin (cd)
 
 ```bash
 dotnet run --project ./MiAppConsola/MiAppConsola.csproj
@@ -127,7 +125,7 @@ sqlcmd -S localhost -Q "SELECT @@VERSION"
 
 -----
 
-### Comandos Git para control de versiones
+## Comandos Git para control de versiones
 
 ```bash
 git init
@@ -160,7 +158,7 @@ git log --oneline
 
 -----
 
-### Comandos útiles para desarrollo
+## Comandos útiles para desarrollo
 
 ```bash
 tree /f
@@ -209,9 +207,7 @@ dotnet add package <PackageName> --version <Version>
 # Actualiza un paquete específico
 ```
 
------
-
-### Comandos específicos para proyectos escolares y restaurante
+## Comandos específicos para proyectos escolares y restaurante
 
 ```bash
 # Para proyecto escolar
@@ -229,8 +225,6 @@ sqlcmd -S localhost -i uned/progra_avanzada/proyectos/proyecto_escolar/database/
 sqlcmd -S localhost -i uned/progra_avanzada/proyectos/proyecto_restaurante/database/CreateTables.sql
 ```
 
-------
-
-### Author & License
+## Author & License
 
 This project is not licensed, was develop by [VIsh0k](https://github.com/Yoswell)
