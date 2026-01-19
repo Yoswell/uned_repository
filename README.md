@@ -1,6 +1,6 @@
 # UNED - Recursos de Apoyo Virtual
 
-Brindar a los estudiantes una colección organizada y práctica de recursos que les permita:
+Brindar a los estudiantes una colección organizada y práctica de recursos.
 
 * Comprender y aplicar conceptos técnicos mediante ejemplos reales.
 * Practicar habilidades de línea de comandos, desarrollo y administración.
